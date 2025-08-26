@@ -18,6 +18,29 @@
   </a>
 </p>
 
+--- 
+## 🔥 Highlights
+- 🚀 Built multiple Flutter apps (Notes App, Store App, Chat App, Quran App)
+- 📚 Passionate about **Mobile Development & Clean Code**
+- 💡 Exploring new ideas in **App Architecture & State Management**
+- 🎯 Sharing knowledge and helping others learn Flutter
+- 🌍 Dreaming to build **Banu Shaarawy Empire Apps** 💚
+
+---
+
+## 🧰 Tech Toolbox
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,python,java,cpp,git,github,figma,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elshaarawy7&show_icons=true&theme=radical" alt="GitHub Stats" height=150 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elshaarawy7&layout=compact&theme=radical" alt="Top Languages" height=150 />
+</p>
+
 ---
 
 ## 🚀 About Me
