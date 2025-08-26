@@ -1,16 +1,15 @@
-## Hi there 👋
+##  Elshaarawy Hassan👋
 
-<!--
-**elshaarawy7/elshaarawy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class AhmedAdel {
+  String role = "Flutter Developer & Instructor";
+  String language = "Arabic";
+  String brand = "Learn Simply | اتعلم ببساطة";
+  List<String> skills = [
+    "Flutter UI/UX",
+    "Dart Animations",
+    "Python, Java, C++",
+    "GitHub & Copilot",
+    "Arabic Content Creation"
+    "Simplify Code"
+  ];
+}
